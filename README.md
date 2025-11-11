@@ -3,8 +3,10 @@
 <!-- Style: NeoImperium / Langson Library Minimal Terminal -->
 
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
+
           ⚜️ CASANOVAIS SYSTEM TERMINAL ⚜️
           ──── NeoImperium™ Information Fetch ────
+          
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
 
           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
