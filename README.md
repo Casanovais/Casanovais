@@ -3,26 +3,26 @@
 <!-- Style: NeoImperium / Langson Library Minimal Terminal -->
 
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
-          ⚜️ CASANOVAIS SYSTEM TERMINAL ⚜️
+          ⚜️  CASANOVAIS SYSTEM TERMINAL  ⚜️
           ──── NeoImperium™ Information Fetch ────
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
 
-          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
-          ⠀⠀⠀⠀⠀⠀⣠⣾⡿⠛⠉⠙⠛⠻⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
-          ⠀⠀⠀⠀⣰⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣆⠀⠀⠀⠀⠀
-          ⠀⠀⠀⣾⣿⠁⠀⣠⣶⣶⣶⣶⣦⣄⠀⠀⠹⣿⣇⠀⠀⠀⠀
-          ⠀⠀⢸⣿⡇⠀⢸⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⠀⠀⠀⠀
-          ⠀⠀⢸⣿⡇⠀⠘⠿⠿⣿⣿⠿⠿⠃⠀⠀⠀⣿⣿⠀⠀⠀⠀
-          ⠀⠀⠀⢿⣿⣆⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⣰⣿⡿⠀⠀⠀⠀
-          ⠀⠀⠀⠀⠻⣿⣷⣄⠀⠀⠀⠀⠀⠀⣠⣾⣿⠟⠀⠀⠀⠀⠀
-          ⠀⠀⠀⠀⠀⠀⠙⠿⣷⣶⣶⣶⣶⡿⠿⠋⠀⠀⠀⠀⠀⠀⠀
+```
+
+   ╔═╗┌─┐┌─┐┌─┐┌─┐┬  ┌─┐┬┬ ┬┌─┐
+   ║  │ ││ ┬│  ├─┤│  ├─┤││││└─┐
+   ╚═╝└─┘└─┘└─┘┴ ┴┴─┘┴ ┴┴└┴┘└─┘
+         N E O I M P E R I U M  ▓▓▓
+
+
+```
 
 
 **USER:**              Casanovais  
 **SYSTEM:**            NeoRomaOS v1.0  
 **INSTITUTION:**       Digital Imperium of Innovation  
 **DOMAIN:**            [github.com/Casanovais](https://github.com/Casanovais)  
-**ARCHITECTURE:**      Python · C · C++ · Holy C · And some other
+**ARCHITECTURE:**      Python · C · C++ · Holy C · and others  
 **FRAMEWORKS:**        React · Flask  
 **CURRENT PROJECT:**   Building the Future, Pixel by Pixel  
 **MOTTO:**             “Steel hits harder than Flesh.”  
@@ -43,8 +43,7 @@
 > 💬 Contact:   [Issues & Discussions →](https://github.com/Casanovais/issues)  
 
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡  
-⚜️  We are on the extreme promontory of the centuries! What is the use of
-looking behind at the moment when we must open the mysterious shutters
-of the impossible? Time and Space died yesterday. We are already living in
-the absolute, since we have already created eternal, omnipresent speed. ⚜️  
+⚜️  “We are on the extreme promontory of the centuries!  
+What is the use of looking behind, when we must open  
+the mysterious shutters of the impossible?” ⚜️  
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
