@@ -8,18 +8,13 @@
           ⚜️  CASANOVAIS SYSTEM TERMINAL  ⚜️
           ──── NeoImperium™ Information Fetch ────
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
-```
 
-
-```
 
    ╔═╗┌─┐┌─┐┌─┐┌─┐┬  ┌─┐┬┬ ┬┌─┐
    ║  │ ││ ┬│  ├─┤│  ├─┤││││└─┐
    ╚═╝└─┘└─┘└─┘┴ ┴┴─┘┴ ┴┴└┴┘└─┘
          N E O I M P E R I U M  ▓▓▓
 
-
-```
 
 
 **USER:**              Casanovais  
@@ -51,3 +46,5 @@
 What is the use of looking behind, when we must open  
 the mysterious shutters of the impossible?” ⚜️  
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
+
+```
