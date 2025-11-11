@@ -3,10 +3,8 @@
 <!-- Style: NeoImperium / Langson Library Minimal Terminal -->
 
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
-
           ⚜️ CASANOVAIS SYSTEM TERMINAL ⚜️
           ──── NeoImperium™ Information Fetch ────
-          
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡
 
           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -24,10 +22,10 @@
 **SYSTEM:**            NeoRomaOS v1.0  
 **INSTITUTION:**       Digital Imperium of Innovation  
 **DOMAIN:**            [github.com/Casanovais](https://github.com/Casanovais)  
-**ARCHITECTURE:**      Python · TypeScript · Rust · Next.js  
-**FRAMEWORKS:**        React · Astro · Bun · Flask  
+**ARCHITECTURE:**      Python · C · C++ · Holy C · And some other
+**FRAMEWORKS:**        React · Flask  
 **CURRENT PROJECT:**   Building the Future, Pixel by Pixel  
-**MOTTO:**             “Code is Civilization.”  
+**MOTTO:**             “Steel hits harder than Flesh.”  
 
 ⟡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⟡  
 
